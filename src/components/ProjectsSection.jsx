@@ -16,8 +16,8 @@ const projects = [
       "Expressjs",
       "Mongodb",
     ],
-    demoURL: "#",
-    githubUrl: "#",
+    demoURL: "https://workbloom-jobportal.onrender.com/",
+    githubUrl: "https://github.com/SulavMaharjan/WorkBloom_frontend.git",
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ const projects = [
     image: "/projects/project2.png",
     tags: ["Reactjs", "ASP .net core web api", "Postgresql"],
     demoURL: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/SulavMaharjan/AD-Inkspire.git",
   },
   {
     id: 3,
@@ -36,8 +36,8 @@ const projects = [
       "Building upon a React.js foundation, I developed a responsive, single-page medical web application that prioritizes an attractive and user-friendly interface through clean layout and smooth navigation, this project focused on implementing modern design principles to deliver an optimal user experience for both patients and healthcare providers.",
     image: "/projects/project3.png",
     tags: ["Reactjs", "MantineUI"],
-    demoURL: "#",
-    githubUrl: "#",
+    demoURL: "https://medicare-static-medical-web.netlify.app/",
+    githubUrl: "https://github.com/SulavMaharjan/Medicare.git",
   },
 ];
 

@@ -19,14 +19,12 @@ const HeroSection = () => {
           </span>
         </h1>
         <div className="flex flex-col">
-          <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
+          <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3 max-w-6xl">
             I create remarkable web experiences using modern technologies. While
             I specialize in front-end development, but I'm also capable of
-            building fully functional full-stack applications.
-          </p>
-          <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I focus on crafting interfaces that are both visually appealing and
-            highly functional.
+            building fully functional full-stack applications.I focus on
+            crafting interfaces that are both visually appealing and highly
+            functional.
           </p>
         </div>
         <div className="pt-4 opacity-0 animate-fade-in-delay-4">

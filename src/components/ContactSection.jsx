@@ -22,7 +22,7 @@ const ContactSection = () => {
           out. I'm always open to discussing new opportunities.
         </p>
 
-        <div className="space-y-8 flex justify-between">
+        <div className="space-y-8 grid grid-cols-1 sm:grid-cols-3 gap-5">
           <h3 className="text-2xl font-semibold mb-6 pt-8">
             Contact Information
           </h3>
